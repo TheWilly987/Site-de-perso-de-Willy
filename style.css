@@ -1,0 +1,106 @@
+html {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: beige;
+}
+.titre {
+    color: orange;
+    border: solid black;
+    border-radius: 50px;
+    text-shadow: -4px 0 4px gray;
+    font-size: 4rem;
+    margin: 20px 220px 20px 220px;
+    background-color: aqua;
+    text-align: center;
+    padding: 8px 0 8px;
+}
+.sous-titre {
+    font-size: 2rem;
+    text-align: center;
+    margin: 500px;
+}
+.paragraphe1 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+.figure1 {
+    text-align: center;
+    font-size: 33px;
+}
+.des1 {
+    margin: 0 0 0 210px;
+    position: absolute;
+    color: magenta;
+}
+.des2 {
+    margin: 0 0 0 465px;
+    position: absolute;
+    color: magenta;
+}
+.des3 {
+    margin: 0 0 0 730px;
+    position: absolute;
+    color: magenta;
+}
+.des4 {
+    margin: 0 0 0 970px;
+    position: absolute;
+    color: pink;
+}
+.des5 {
+    margin: 0 0 0 1200px;
+    position: absolute;
+    color: magenta;
+}
+.des6 {
+    margin: 0 0 0 1450px;
+    position: absolute;
+    color: orangered;
+}
+.figure2 {
+    text-align: center;
+    font-size: 33px;
+    margin-top: 150px;
+    margin-bottom: 300px;
+}
+.des7 {
+    margin: 0 0 0 200px;
+    position: absolute;
+    color: magenta;
+}
+.des8 {
+    margin: 0 0 0 415px;
+    position: absolute;
+    color: cyan;
+}
+.des9 {
+    margin: 0 0 0 720px;
+    position: absolute;
+    color: cyan;
+}
+.des10 {
+    margin: 0 0 0 970px;
+    position: absolute;
+    color: cyan;
+}
+.des11 {
+    margin: 0 0 0 1200px;
+    position: absolute;
+    color: orangered;
+}
+.des12 {
+    margin: 0 0 0 1460px;
+    position: absolute;
+    color: magenta;
+}
+.paragraphe2 {
+    font-size: 1.5rem;
+    position: absolute;
+}
+.titre2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.sous-titre2 {
+    border: solid;
+    border-radius: 100px;
+}
